@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+drawable ic_aboutus
+drawable ic_contact
+drawable ic_dashboard
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable selector
+id AboutUs
+id ContactUs
+id Exit
+id HomePage
+id Settings
+id bottom_navigator
+layout activity_about_us
+layout activity_contact_us
+layout activity_main
+menu menu
+menu menu1
+mipmap ic_launcher
+mipmap ic_launcher_round
+style Theme.MadProject
